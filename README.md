@@ -1,4 +1,4 @@
-# messengerui
+# Flutter Messenger UI
 
 A UI tutorial of the Facebook Messenger UI. Super simple and not very programatic but it definitely taught me some UI tools.
 

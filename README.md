@@ -1,6 +1,6 @@
 # messengerui
 
-A new Flutter project.
+A UI tutorial of the Facebook Messenger UI. Super simple and not very programatic but it definitely taught me some UI tools.
 
 ## Getting Started
 
@@ -8,9 +8,7 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Freecodecamp tutorial I followed](https://www.freecodecamp.org/news/flutter-messenger-clone/)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Can run with - ```flutter run```
+I ran chose to opt into sound null safety to see if it would change how I went about this tutorial.
